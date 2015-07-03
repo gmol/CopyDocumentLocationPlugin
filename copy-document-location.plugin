@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python
+Module=copy-document-location
+IAge=3
+Name=Copy Document Location
+Description=Copy the location of the current document to the clipboard. Based on Tim Cuthbertson plugin of the same name.
+Authors=Artur Stulka
+Copyright=Copyright © 2015 Artur Stulka
